@@ -5,10 +5,6 @@ Computer Science (AI & ML) Student | Python & AI Enthusiast | Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manvith-kumar16&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
   🚀 Passionate about building real-world AI solutions & scalable applications
 </p>
 
