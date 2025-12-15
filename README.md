@@ -7,33 +7,42 @@ Computer Science & Artificial Intelligence Student | Python & AI Enthusiast | De
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manvith-kumar16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🎖 Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@Manvith-kumar16">
+    <img src="https://holopin.me/Manvith-kumar16" alt="Holopin Badges">
+  </a>
+</p>
+
+### 🎖 Developer Badges
+![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 About Me
 
-- 🎓 5th Semester **Computer Science & AI Engineering Student**
+- 🎓 4th Semester **Computer Science & AI Engineering Student**
 - 🌱 Currently learning **Python, AI, Machine Learning & Backend Development**
 - 👯 Open to collaborate on **AI, Web & Full-Stack Projects**
 - 💡 Interested in **EdTech, Computer Vision & Real-world AI solutions**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **manvithkumar@gmail.com** *(update if needed)*
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/manvith-kumar/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE_USERNAME" target="_blank">
+  <a href="https://www.youtube.com/@Manvith-kumar16" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
   </a>
 </p>
@@ -64,16 +73,16 @@ Computer Science & Artificial Intelligence Student | Python & AI Enthusiast | De
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=dracula" />
 </p>
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💡 Let's Collaborate!
-🚀 Have an idea or project?  
-I'm always open to **learning, building, and collaborating** together.
+🚀 Have a project or idea?  
+I'm always open to **learning, building, and collaborating**.
 
-### ⚡ Fun Fact  
-💬 Love discussing **AI, ML, projects, and future tech innovations**
+### ⚡ Fun Fact
+💬 I enjoy discussing **AI, ML, problem-solving, and future technologies**
