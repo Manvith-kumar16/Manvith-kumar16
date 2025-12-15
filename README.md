@@ -1,41 +1,48 @@
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
-<h1 align="center">Hi 👋, I'm Manvith Kumar</h1>
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">Hi 👋, I'm Manvith Kumar Ullal</h1>
 <h3 align="center">
-Computer Science (Artificial Intelligence & Machine Learning) Student | Python & AI Enthusiast | Developer
+Computer Science (AI & ML) Student | Python & AI Enthusiast | Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manvith-kumar16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manvith-kumar16&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
+<p align="center">
+  🚀 Passionate about building real-world AI solutions & scalable applications
+</p>
+
+<!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠 About Me
+## 👨‍💻 About Me
 
-- 🎓 **5th Semester** Computer Science (**AIML**) Engineering Student  
-- 🌱 Currently learning **Python, Artificial Intelligence, Machine Learning & Backend Development**  
-- 👯 Open to collaborate on **AI, Web & Full-Stack Projects**  
-- 💡 Interested in **EdTech, Computer Vision & Real-World AI Solutions**  
-- 📫 Reach me at: **manvithkumar.u@gmail.com**
+- 🎓 **5th Semester** Computer Science (**Artificial Intelligence & Machine Learning**)  
+- 🧠 Strong foundation in **Python, ML, Deep Learning & Backend Development**  
+- 🔭 Actively building **AI-powered & Full-Stack projects**  
+- 🤝 Open to **internships, collaborations & research projects**  
+- 💡 Interests: **EdTech, Computer Vision, Automation & Intelligent Systems**  
+- 📫 Email: **manvithkumar.u@gmail.com**
 
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
+<!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/manvith-kumar16/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/manvith__kumar_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
 </p>
 
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
+<!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Technologies & Tools
+## 🚀 Technologies & Tools
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
@@ -72,37 +79,39 @@ Computer Science (Artificial Intelligence & Machine Learning) Student | Python &
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td></td><td></td><td></td>
   </tr>
 </table>
 
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
+<!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Activity Graph
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
+<!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&theme=dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=dark&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark" />
 </p>
 
-
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
+<!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💡 Let’s Collaborate!
-🚀 Have a project or idea?  
-I’m always open to **learning, building, and collaborating on meaningful projects**.
+## 🤝 Let’s Collaborate!
+
+🚀 Have an idea, project, or opportunity?  
+I’m always excited to **learn, build, and collaborate on impactful technology**.
+
+💬 Feel free to connect or reach out anytime!
