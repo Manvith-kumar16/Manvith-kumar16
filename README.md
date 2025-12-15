@@ -13,25 +13,24 @@ Computer Science (Artificial Intelligence & Machine Learning) Student | Python &
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!-- ===================== HORIZONTAL DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 🛠 About Me
 
-- 🎓 5th Semester **Computer Science (AIML) Engineering Student**
-- 🌱 Currently learning **Python, AI, Machine Learning & Backend Development**
-- 👯 Open to collaborate on **AI, Web & Full-Stack Projects**
-- 💡 Interested in **EdTech, Computer Vision & Real-world AI solutions**
-- 📫 Reach me at: **manvithkumar.u@gmail.com** *(update if needed)*
+- 🎓 **5th Semester** Computer Science (**AIML**) Engineering Student  
+- 🌱 Currently learning **Python, Artificial Intelligence, Machine Learning & Backend Development**  
+- 👯 Open to collaborate on **AI, Web & Full-Stack Projects**  
+- 💡 Interested in **EdTech, Computer Vision & Real-World AI Solutions**  
+- 📫 Reach me at: **manvithkumar.u@gmail.com**
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/manvith-kumar/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/manvith-kumar16/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/manvith__kumar_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
 
@@ -48,12 +47,11 @@ Computer Science (Artificial Intelligence & Machine Learning) Student | Python &
 
 ### 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark" />
 </p>
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -64,7 +62,6 @@ Computer Science (Artificial Intelligence & Machine Learning) Student | Python &
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💡 Let's Collaborate!
+### 💡 Let’s Collaborate!
 🚀 Have a project or idea?  
-I'm always open to **learning, building, and collaborating**.
-
+I’m always open to **learning, building, and collaborating on meaningful projects**.
