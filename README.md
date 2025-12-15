@@ -1,6 +1,4 @@
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center">Hi 👋, I'm Manvith Kumar</h1>
 <h3 align="center">
 Computer Science (Artificial Intelligence & Machine Learning) Student | Python & AI Enthusiast | Developer
@@ -38,16 +36,54 @@ Computer Science (Artificial Intelligence & Machine Learning) Student | Python &
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,flask,mysql,mongodb,opencv,sklearn,tensorflow,git,github,vscode,figma&perline=6" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
@@ -55,9 +91,14 @@ Computer Science (Artificial Intelligence & Machine Learning) Student | Python &
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=dark&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark" />
+</p>
+
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
