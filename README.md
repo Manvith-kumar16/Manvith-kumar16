@@ -13,22 +13,13 @@ Computer Science & Artificial Intelligence Student | Python & AI Enthusiast | De
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎖 Holopin Badges
-<p align="center">
-  <a href="https://holopin.io/@YOUR_GITHUB_USERNAME">
-    <img src="https://holopin.me/YOUR_GITHUB_USERNAME" alt="Holopin Badges">
-  </a>
-</p>
-
-### 🎖 Developer Badges
-![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 About Me
 
-- 🎓 4th Semester **Computer Science & AI Engineering Student**
+- 🎓 5th Semester **Computer Science & AI Engineering Student**
 - 🌱 Currently learning **Python, AI, Machine Learning & Backend Development**
 - 👯 Open to collaborate on **AI, Web & Full-Stack Projects**
 - 💡 Interested in **EdTech, Computer Vision & Real-world AI solutions**
@@ -60,7 +51,7 @@ Computer Science & Artificial Intelligence Student | Python & AI Enthusiast | De
 
 ### 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react" />
 </p>
 
 <!-- ===================== HORIZONTAL DIVIDER ===================== -->
@@ -68,7 +59,7 @@ Computer Science & Artificial Intelligence Student | Python & AI Enthusiast | De
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manvith-kumar16&theme=dracula&margin-w=15&margin-h=15" />
 </p>
 
 ### 📈 GitHub Stats
