@@ -1,14 +1,12 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hi 👋, I'm Manvith Kumar Ullal</h1>
 <h3 align="center">
-AI & Machine Learning Engineer in the Making | Python Developer | Tech Innovator
+🎓 Computer Science (AI & ML) Student | 🐍 Python • 🤖 AI • 🌐 Full-Stack Development
 </h3>
 
 <p align="center">
-  🚀 I build <b>intelligent systems</b>, explore <b>cutting-edge AI</b>, and create <b>scalable solutions</b> that solve real-world problems.
+  🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
 </p>
-
-
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
