@@ -28,6 +28,7 @@
   <a href="https://www.linkedin.com/in/manvith-kumar16/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/manvith__kumar_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
