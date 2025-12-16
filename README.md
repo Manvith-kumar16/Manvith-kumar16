@@ -1,5 +1,5 @@
 <!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">Hi 👋, I'm Manvith Kumar Ullal</h1>
+<h1 align="center">Hello, I'm Manvith Kumar Ullal 👋</h1>
 <h3 align="center">
 🎓 Computer Science (AI & ML) Student | 🐍 Python • 🤖 AI • 🌐 Full-Stack Development
 </h3>
