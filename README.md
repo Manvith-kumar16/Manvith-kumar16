@@ -89,7 +89,7 @@
 
   <tr>
   <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="45"/><br/>Colab</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="45"/><br/>Colab</td>
   <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45"/><br/>Unity</td>
   <td></td>
   <td></td>
