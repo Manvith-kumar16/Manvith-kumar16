@@ -85,6 +85,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/><br/>Canva</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="45"/><br/>Colab</td>
   </tr>
 
 
