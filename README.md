@@ -65,6 +65,9 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/><br/>SQLite</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/><br/>Firebase</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45"/><br/>Unity</td>
+  <td></td>
+  <td></td>
     <td></td>
     <td></td>
   </tr>
