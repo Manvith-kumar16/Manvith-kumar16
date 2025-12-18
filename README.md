@@ -3,9 +3,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=700&lines=Computer+Science+(AIML)+Engineering+Student;" 
-    alt="Typing SVG" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=800&lines=Computer+Science+(Artificial+Intelligence+%26+Machine+Learning)+Student" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 <p align="center">
   🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
