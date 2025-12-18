@@ -3,11 +3,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00A6F7&center=true&vCenter=true&multiline=true&width=900&lines=Computer+Science+(AI+%26+ML)+Undergraduate;Python+%26+Machine+Learning+Developer;Building+AI-powered+Real-world+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00A6F7&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+(AI+%26+ML)+Undergraduate;Python+%26+Machine+Learning+Developer"
     alt="Typing SVG"
   />
 </p>
-
 
 <p align="center">
   🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
