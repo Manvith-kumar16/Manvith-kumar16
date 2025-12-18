@@ -11,11 +11,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me
-- 🎓 CS (AI & ML) undergraduate at Sahyadri College of Engineering & Management (CGPA: 8.9)
+- 🎓 CS (AI & ML) undergraduate at Sahyadri College of Engineering & Management 
 - 🚀 Build AI-powered & full-stack applications focused on real-world problem solving
 - 🧠 Strong in Python, Machine Learning, Backend & Web Development
 - 💼 Internship exposure to APIs, Docker, LLMs & Cloud tools
--💡 Interested in EdTech, Computer Vision & Intelligent Systems
+- 💡 Interested in EdTech, Computer Vision & Intelligent Systems
 - 🤝 Open to internships, research & collaborations  
 - 📫 Email: **manvithkumar.u@gmail.com**
 
