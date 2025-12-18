@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Manvith Kumar</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=800&lines=ComputerScience+(AIML)+Student" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00A6F7&center=true&vCenter=true&multiline=true&width=900&lines=Computer+Science+(AI+%26+ML)+Undergraduate;Python+%26+Machine+Learning+Developer;Building+AI-powered+Real-world+Applications"
+    alt="Typing SVG"
   />
 </p>
 
