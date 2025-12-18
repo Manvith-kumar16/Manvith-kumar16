@@ -1,11 +1,17 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hi 👋, I'm Manvith Kumar</h1>
-<h3 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=435&lines=Computer Science (AI & ML) Student | Python & AI Enthusiast | Developer)](https://git.io/typing-svg)
-</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=700&lines=Computer+Science+(AI+%26+ML)+Student;Python+%26+AI+Enthusiast;Developer" 
+    alt="Typing SVG" 
+  />
+</p>
+
 <p align="center">
   🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
 </p>
+
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
