@@ -1,5 +1,5 @@
 <!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">Hello, I'm Manvith Kumar Ullal 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=435&lines=Manvith+Kumar+Ullal)](https://git.io/typing-svg)
 <h3 align="center">
 🎓 Computer Science (AI & ML) Student | 🐍 Python • 🤖 AI • 🌐 Full-Stack Development
 </h3>
