@@ -1,9 +1,8 @@
 <!-- ===================== HERO SECTION ===================== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=435&lines=Manvith+Kumar+Ullal)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Manvith Kumar</h1>
 <h3 align="center">
-🎓 Computer Science (AI & ML) Student | 🐍 Python • 🤖 AI • 🌐 Full-Stack Development
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A6F7&center=true&multiline=true&width=435&lines=Computer Science (AI & ML) Student | Python & AI Enthusiast | Developer)](https://git.io/typing-svg)
 </h3>
-
 <p align="center">
   🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
 </p>
