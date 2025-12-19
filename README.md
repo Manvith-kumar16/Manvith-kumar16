@@ -39,7 +39,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:manvithkumar.u@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/>
   </a>
 </p>
 
