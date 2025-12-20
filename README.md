@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="./readme.gif" alt="Cyberpunk Banner" width="40%" />
+  <img src="./readme.gif" alt="Cyberpunk Banner" width="30%" />
 </p>
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hello, I'm Manvith Kumar Ullal👋</h1>
