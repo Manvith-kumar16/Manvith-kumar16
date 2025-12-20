@@ -43,8 +43,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:manvithkumar.u@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/235294020-7b8c4a7a-8b7a-4c75-8e9b-8a3f4a5f0c8e.gif" width="60" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFpbGFuaWNvbmFuaW1hdGVkZ2lm/giphy.gif" width="60" />
+</a>
 </p>
 
 <!-- ===================== DIVIDER ===================== -->
