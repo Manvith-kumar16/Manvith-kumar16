@@ -32,20 +32,27 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
-
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/manvith-kumar16/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/manvith__kumar_/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"/>
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail (GUARANTEED) -->
   <a href="mailto:manvithkumar.u@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-9a2b6c1a-8c90-4b7b-9b1a-9a3f1d3e9c6a.gif" width="60"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="50"/>
   </a>
 </p>
+
 
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
