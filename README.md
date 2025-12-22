@@ -122,15 +122,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=dark" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=dark&hide_border=true&icon_color=00A6F7&title_color=00A6F7" />
+  &nbsp;&nbsp;
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=dark&hide_border=true&title_color=00A6F7" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark&hide_border=true&ring=00A6F7&fire=00A6F7" />
 </p>
+
 
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
