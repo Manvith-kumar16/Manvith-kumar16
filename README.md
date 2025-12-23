@@ -114,18 +114,9 @@
 
 ## 📊 GitHub Activity
 
-<h2 align="center">📈 GitHub Activity Overview</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&bg_color=0D1117&color=00A6F7&line=00A6F7&point=FFFFFF&area=true&hide_border=true&radius=16&height=300"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<p align="center">
-  🔥 Consistent learner • 🚀 Active builder • 📈 Growing every day
-</p>
+<p align="center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" /> 
+</p>>
 
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
