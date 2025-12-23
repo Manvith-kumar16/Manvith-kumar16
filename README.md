@@ -5,17 +5,14 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hello, I'm Manvith Kumar Ullal👋</h1>
 
+<h2 align="center">📈 GitHub Activity Overview</h2>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00A6F7&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+(AI+%26+ML)+Undergraduate"
-    alt="Typing SVG"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&bg_color=0D1117&color=00A6F7&line=00A6F7&point=FFFFFF&area=true&hide_border=true&radius=16&height=300"
+    alt="GitHub Activity Graph"
   />
 </p>
-
-<p align="center">
-  🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
-</p>
-
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
