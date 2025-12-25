@@ -139,5 +139,5 @@
 
 ## 🤝 Let’s Collaborate!
 
-🚀 Have an idea, project, or opportunity?  
+🚀 Have an idea!, project, or opportunity?  
 I’m always excited to **learn, build, and collaborate on impactful technology**.
