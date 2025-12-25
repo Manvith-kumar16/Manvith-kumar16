@@ -19,7 +19,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me :
 - 🎓 CS (AI & ML) undergraduate at Sahyadri College of Engineering & Management 
 - 🚀 Build AI-powered & full-stack applications focused on real-world problem solving
 - 🧠 Strong in Python, Machine Learning, Backend & Web Development
