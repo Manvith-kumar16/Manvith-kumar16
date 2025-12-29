@@ -123,16 +123,15 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="46%" 
-       src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img width="46%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=dark&hide_border=true" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=tokyonight" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img 
-       src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark&hide_border=true" />
+  <img
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Manvith-kumar16&theme=tokyonight" />
 </p>
 
 <!-- ===================== DIVIDER ===================== -->
