@@ -121,18 +121,14 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=tokyonight" />
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Manvith-kumar16&theme=tokyonight" />
-</p>
+![Manvith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manvith-kumar16&theme=github_dark)
+
 
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
