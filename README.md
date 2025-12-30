@@ -31,7 +31,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me :
 <p align="center">
    <a href="https://www.linkedin.com/in/manvith-kumar16/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,7 +45,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies & Tools :
 
 <table align="center">
   <tr>
@@ -112,7 +112,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Activity:
+## 📊 GitHub Activity :
 
 <p align="center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" /> 
@@ -121,7 +121,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 
 ![Manvith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=github_dark)
 
