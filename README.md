@@ -121,7 +121,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats :
+## 📊 GitHub Stats 
 
 ![Manvith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&show_icons=true&theme=github_dark)
 
