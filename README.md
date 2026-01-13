@@ -123,7 +123,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats 
-
 <p align="center">
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api?username=Manvith-kumar16&hide_border=true&theme=aura" 
@@ -138,7 +137,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark&hide_border=false" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Manvith-kumar16&theme=aura&hide_border=true&background=0D1117" 
+  />
 </p>
 
 
