@@ -113,7 +113,27 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Activity 
+<hr style="height: 0px; border: none; border-top: 1px solid black;" />
 
+
+<h2 align="center" style="font-weight: bold;">GitHub Statistics</h2>
+
+<br />
+
+<div align="center">
+
+<!-- ![Streak 1](https://github-readme-streak-stats.herokuapp.com/user=akkilmg&theme=aura&background=0D1117&hide_border=true) -->
+<img src="https://streak-stats.demolab.com/demo/preview.php?user=akkilmg&theme=aura&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=akkilmg&hide-border=true&theme=aura" height="165" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=akkilmg&layout=compact&theme=aura&hide_border=true" height="165" />
+</p>
+
+
+<br/>
 <p align="center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" /> 
 </p>
