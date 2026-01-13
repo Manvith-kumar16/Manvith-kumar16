@@ -130,13 +130,6 @@
 
 <br />
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com/demo/preview.php?user=Manvith-kumar16&theme=aura&hide_border=true&background=0D1117" 
-    alt="GitHub Streak" 
-  />
-</div>
-
 <p align="center">
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api?username=Manvith-kumar16&hide_border=true&theme=aura" 
