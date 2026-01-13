@@ -124,12 +124,6 @@
 
 ## 📊 GitHub Stats 
 
-<hr style="height: 0px; border: none; border-top: 1px solid black;" />
-
-<h2 align="center" style="font-weight: bold;">GitHub Statistics</h2>
-
-<br />
-
 <p align="center">
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api?username=Manvith-kumar16&hide_border=true&theme=aura" 
