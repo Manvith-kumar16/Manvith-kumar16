@@ -5,9 +5,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hello, I'm Manvith Kumar Ullal👋</h1>
 
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
 
 <p align="center">
   <img
@@ -145,6 +142,10 @@
   <img 
     src="https://streak-stats.demolab.com/?user=Manvith-kumar16&theme=aura&hide_border=true&background=0D1117" 
   />
+</p>
+
+<p align="center">
+  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 <!-- ===================== DIVIDER ===================== -->
