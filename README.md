@@ -115,33 +115,25 @@
 
 ## 📊 GitHub Activity 
 
-<br/>
-<p align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" /> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvith-kumar16&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+<br/>
 
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats 
 
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=Manvith-kumar16&hide_border=true&theme=aura" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Manvith-kumar16&layout=compact&theme=aura&hide_border=true" 
-    height="165" 
-  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&theme=dark&show_icons=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=dark&layout=compact&hide_border=false" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Manvith-kumar16&theme=aura&hide_border=true&background=0D1117" 
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
