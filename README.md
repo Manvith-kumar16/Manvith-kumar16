@@ -6,6 +6,10 @@
 <h1 align="center">Hello, I'm Manvith Kumar Ullal👋</h1>
 
 <p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00A6F7&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+(AI+%26+ML)+Undergraduate"
     alt="Typing SVG"
