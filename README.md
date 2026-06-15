@@ -133,7 +133,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manvith-kumar16&theme=dark&hide_border=false" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Manvith-kumar16&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
