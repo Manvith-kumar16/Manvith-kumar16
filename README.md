@@ -28,7 +28,7 @@
 * 💻 Tech Stack: Python, C++, React, React Native, Node.js, Express.js, MongoDB, Firebase
 * 🔬 Interested in Generative AI, Computer Vision, and Machine Learning
 * 🌱 Currently exploring LLMs, AI Agents, and Cloud Technologies
-* 📫 **[manvithkumar.u@gmail.com](mailto:manvithkumar.u@gmail.com)**
+* 📫 Email: **[manvithkumar.u@gmail.com](mailto:manvithkumar.u@gmail.com)**
 
 
 <!-- ===================== DIVIDER ===================== -->
