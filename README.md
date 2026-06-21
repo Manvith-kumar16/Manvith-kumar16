@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🚀 Curious mind 🧠 | Problem solver 🧩 | Passionate about building <b>AI-driven applications</b> that make an impact ✨
+  🚀 AI & Full-Stack Developer | 🧠 Exploring Machine Learning, Computer Vision & Generative AI | 🧩 Solving real-world problems through technology ✨
 </p>
 
 <!-- ===================== DIVIDER ===================== -->
