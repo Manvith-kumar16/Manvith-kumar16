@@ -145,6 +145,17 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Manvith-kumar16&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Manvith-kumar16's Trophies" />
+  </a>
+</p>
+
+<!-- ===================== DIVIDER ===================== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🤝 Let’s Collaborate!
 
 🚀 Have an idea!, project, or opportunity?  
