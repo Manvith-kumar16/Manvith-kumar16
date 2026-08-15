@@ -20,16 +20,15 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 AI & ML Undergraduate at Sahyadri College of Engineering & Management
-* 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
-* 🤖 Building AI-powered applications, intelligent systems, and scalable web solutions
-* 💻 Tech Stack: Python, C++, React, React Native, Node.js, Express.js, MongoDB, Firebase
-* 🔬 Interested in Generative AI, Computer Vision, and Machine Learning
-* 🌱 Currently exploring LLMs, AI Agents, and Cloud Technologies
-* 📫 Email: **[manvithkumar.u@gmail.com](mailto:manvithkumar.u@gmail.com)**
-
+* B.E. in Computer Science (Artificial Intelligence & Machine Learning) Undergraduate at Sahyadri College of Engineering and Management
+* Software Engineer | Full Stack Developer | AI Engineer
+* Experience building SaaS platforms, microservices architectures, and REST APIs using React, .NET 8, FastAPI, and AWS.
+* Building AI-powered applications, intelligent systems (LangGraph, LLMs), and scalable web solutions.
+* Tech Stack: Python, C++, C#, TypeScript, JavaScript, SQL, React.js, Next.js, .NET, React Native, FastAPI, AWS, Docker, MongoDB, PostgreSQL.
+* Published research on Multimodal Deep Learning for Automated Arecanut Quality Classification (SSRN Preprint).
+* Email: **[manvithkumar.u@gmail.com](mailto:manvithkumar.u@gmail.com)**
 
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
