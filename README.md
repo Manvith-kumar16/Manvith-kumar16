@@ -130,8 +130,8 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manvith-kumar16&theme=dark&show_icons=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=dark&layout=compact&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manvith-kumar16&theme=dark&show_icons=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=dark&layout=compact&hide_border=false" />
 </p>
 
 <p align="center">
