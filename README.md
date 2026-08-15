@@ -5,6 +5,9 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hello, I'm Manvith Kumar Ullal👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manvith-kumar16&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img
