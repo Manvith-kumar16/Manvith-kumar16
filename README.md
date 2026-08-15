@@ -54,52 +54,71 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br/>Python</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/><br/>C</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>C++</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/><br/>C#</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/><br/>TypeScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/><br/>HTML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/><br/>CSS</td>
   </tr>
 
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/><br/>CSS</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>React Native</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/><br/>Next.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="45"/><br/>Vite</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>Tailwind CSS</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>Bootstrap</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/><br/>Flask</td>
+  </tr>
+
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/><br/>Node.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/><br/>Express</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/><br/>FastAPI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/><br/>Flask</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/><br/>.NET</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/><br/>REST API</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="45"/><br/>Postman</td>
   </tr>
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br/>MySQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/><br/>SQLite</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/><br/>Firebase</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45"/><br/>Unity</td>
-  <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>Redis</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br/>AWS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/><br/>Google Cloud</td>
   </tr>
 
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/><br/>Firebase</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="45"/><br/>Supabase</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="45"/><br/>Vercel</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br/>Linux</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45"/><br/>Keras</td>
+  </tr>
+
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/><br/>OpenCV</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br/>Scikit-learn</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45"/><br/>Unity</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45"/><br/>n8n</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter</td>
   </tr>
 
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br/>Git</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45"/><br/>GitLab</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/><br/>Canva</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter</td>
     <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="45"/><br/>Colab</td>
   </tr>
-
-
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
