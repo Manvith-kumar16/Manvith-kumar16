@@ -28,6 +28,7 @@
 * Building AI-powered applications, intelligent systems (LangGraph, LLMs), and scalable web solutions.
 * Tech Stack: Python, C++, C#, TypeScript, JavaScript, SQL, React.js, Next.js, .NET, React Native, FastAPI, AWS, Docker, MongoDB, PostgreSQL.
 * Published research on Multimodal Deep Learning for Automated Arecanut Quality Classification (SSRN Preprint).
+* Portfolio: **[manvith-kumar.vercel.app](https://manvith-kumar.vercel.app/)**
 * Email: **[manvithkumar.u@gmail.com](mailto:manvithkumar.u@gmail.com)**
 
 <!-- ===================== DIVIDER ===================== -->
