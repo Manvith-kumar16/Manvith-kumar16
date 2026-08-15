@@ -168,7 +168,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manvith-kumar16&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Manvith-kumar16's Trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Manvith-kumar16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Manvith-kumar16's Trophies" />
   </a>
 </p>
 
