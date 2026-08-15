@@ -130,12 +130,12 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manvith-kumar16&theme=dark&show_icons=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=dark&layout=compact&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-one-rho-52.vercel.app/api?username=Manvith-kumar16&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-one-rho-52.vercel.app/api/top-langs/?username=Manvith-kumar16&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Manvith-kumar16&theme=github-dark-blue&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Manvith-kumar16&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
