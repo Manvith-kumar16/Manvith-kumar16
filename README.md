@@ -154,7 +154,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Manvith-kumar16&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Manvith-kumar16&theme=tokyonight&hide_border=true&cache_bust=1" />
 </p>
 
 <p align="center">
